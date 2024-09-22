@@ -1,9 +1,12 @@
-for translate PVZ2C
+for translate PVZ2C into 
 
-i will translate to
+English/French/Spanish/Russian
 
-English/anglais/Inglés/Английский
-French/français/Francés/французский
-Spanish/Espagnol/Español/испанский
-Russian/russe/ruso/Русский (probably)
+Anglais/français/Espagnol/russe
 
+Inglés/Francés/Español/ruso
+
+Английский/французский/испанский/Русский
+
+(not sure for Russian)
+(не уверен насчет русского перевода)
