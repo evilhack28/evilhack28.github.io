@@ -1,5 +1,8 @@
 for translate PVZ2C into 
 
+I know that not the best translation actually and I'm sorry for that
+but please stop harassing me i just want make a translation and have people happy 
+
 English/French/Spanish/Russian
 
 Anglais/français/Espagnol/russe
