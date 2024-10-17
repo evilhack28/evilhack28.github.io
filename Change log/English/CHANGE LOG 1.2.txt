@@ -1,14 +1,3 @@
-I'm fixing all the plants ! Have a nice day ! 
+UPDATE AT 22/09/24 V 1.3.2 Server 
 
-UPDATE AT 22/09/24 V 1.2 Server 
-
-What's new ? 
-Plants that can't be fully translate:
-gloomvine (Missing all almanac UI on wiki) CHOMPER (Missing all almanac UI on wiki) 
-SPLIT PEA (Missing skill level 5 on wiki) GARLIC (Missing skill level 5 on wiki)
-CHERRY_BOMB (Old skill + Missing Ui on wiki) REPEATER (Old skill + Missing Ui on wiki) 
- GRAVEBUSTER (Missing one stats almanac on wiki) POTATOMINE (Missing some stats almanac on wiki)
-
-fixed plants 
- THREEPEATER SPIKEROCK  SPIKEWEED  KERNELPULT 
- SNOWPEA TWINSUNFLOWER   WALLNUT F
+Thanks to cybersteve
