@@ -1,12 +1,12 @@
-for translate PVZ2C into 
+This repo is for translate 植物大战僵尸2 (plants vs zombies 2 Chinese) into:
 
-English/French/Spanish/Russian
+English/French
 
-Anglais/français/Espagnol/russe
+Anglais/français
 
-Inglés/Francés/Español/ruso
 
-Английский/французский/испанский/Русский
+i use that type of tools
 
-(not sure for Russian)
-(не уверен насчет русского перевода)
+https://github.com/Haruma-VN
+https://haruma-vn.github.io/Sen.Environment/
+
