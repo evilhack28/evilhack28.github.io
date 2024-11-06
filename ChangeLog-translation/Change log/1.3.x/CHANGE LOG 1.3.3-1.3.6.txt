@@ -1,0 +1,15 @@
+V1.3.3
+fix: debrit/fragment/shards to "piece"
+fix vertigo 
+fix plants new search improve (only in the txt)
+
+V1.3.4
+FIX PLANTS NAME/COSTUME
+fix plants new search improve (only in the txt)
+
+v1.3.5
+fixed Halloween quest name/description
+
+1.3.6
+Change "about" seting to credit
+New plants name fix 
