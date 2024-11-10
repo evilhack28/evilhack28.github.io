@@ -6,7 +6,7 @@ youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
-UPDATE AT 3/11/24 V 1.4.0 Server 
+UPDATE AT 9/11/24 V 1.4.0 Server 
 
 Special thanks to cybersteve for the GitHub
 Special thanks to eluthr for help me in the translation
@@ -18,7 +18,7 @@ V1.4.0
 update the file to 3.5.6
 
 [HEALTH_NOTICE_CONTENT_3]
-translate by evilhack28 version from november 3 (beta) V1.4.0
+translate by evilhack28 version from november 9 (beta) V1.4.0
 Special thanks to cybersteve for the GitHub
 Special thanks to eluthr for help me in the translation
 
